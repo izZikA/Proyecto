@@ -1,0 +1,15 @@
+﻿  FinalA.cpp
+C:\Users\Jaime\source\repos\CGEIHC03\CGEIHC03\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\Jaime\source\repos\CGEIHC03\CGEIHC03\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Jaime\source\repos\CGEIHC03\CGEIHC03\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Jaime\source\repos\CGEIHC03\CGEIHC03\FinalA.cpp(785,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Jaime\source\repos\CGEIHC03\CGEIHC03\FinalA.cpp(786,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Jaime\source\repos\CGEIHC03\CGEIHC03\FinalA.cpp(790,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Jaime\source\repos\CGEIHC03\CGEIHC03\FinalA.cpp(791,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Jaime\source\repos\CGEIHC03\CGEIHC03\FinalA.cpp(793,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Jaime\source\repos\CGEIHC03\CGEIHC03\FinalA.cpp(794,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Jaime\source\repos\CGEIHC03\CGEIHC03\FinalA.cpp(802,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+glfw3.lib(input.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(input.obj)' o en 'C:\Users\Jaime\source\repos\CGEIHC03\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(monitor.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(monitor.obj)' o en 'C:\Users\Jaime\source\repos\CGEIHC03\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_window.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_window.obj)' o en 'C:\Users\Jaime\source\repos\CGEIHC03\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  CGEIHC03.vcxproj -> C:\Users\Jaime\source\repos\CGEIHC03\Debug\CGEIHC03.exe
